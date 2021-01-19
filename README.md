@@ -1,4 +1,4 @@
-# yandex-api-ile-translate-yapimi
+# Vue translate APP
 
 > Yandex API 
 ```
