@@ -1,6 +1,9 @@
 # yandex-api-ile-translate-yapimi
 
-> Yandex API ile Vue.js kullanarak Translate Yapımı
+> Yandex API 
+```
+https://translate.yandex.net/api/v1.5/tr.json/getLangs?key=${key}
+```
 
 ## Build Setup
 
